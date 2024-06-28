@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kithmindp&show_icons=true&locale=en" alt="kithmindp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TharushiCS&" alt="TharushiCS" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cirosantilli&" alt="cirosantilli" /></p>
 
 
 
